@@ -8,6 +8,7 @@ Day to Day solving of problems in the leetcode
 | ------- |
 | [0001-two-sum](https://github.com/Nareshk7800/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nareshk7800/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Nareshk7800/leetcode/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +45,5 @@ Day to Day solving of problems in the leetcode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nareshk7800/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Nareshk7800/leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
