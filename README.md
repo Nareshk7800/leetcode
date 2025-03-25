@@ -41,6 +41,7 @@ Day to Day solving of problems in the leetcode
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Nareshk7800/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Nareshk7800/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
