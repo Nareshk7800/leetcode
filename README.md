@@ -13,12 +13,14 @@ Day to Day solving of problems in the leetcode
 | [0066-plus-one](https://github.com/Nareshk7800/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Nareshk7800/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Nareshk7800/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Nareshk7800/leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nareshk7800/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Nareshk7800/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Nareshk7800/leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Nareshk7800/leetcode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +75,7 @@ Day to Day solving of problems in the leetcode
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nareshk7800/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Nareshk7800/leetcode/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -81,4 +84,12 @@ Day to Day solving of problems in the leetcode
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Nareshk7800/leetcode/tree/master/0035-search-insert-position) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Nareshk7800/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Nareshk7800/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
