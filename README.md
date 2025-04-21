@@ -16,6 +16,7 @@ Day to Day solving of problems in the leetcode
 | [0169-majority-element](https://github.com/Nareshk7800/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Nareshk7800/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Nareshk7800/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Nareshk7800/leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Day to Day solving of problems in the leetcode
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nareshk7800/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Nareshk7800/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nareshk7800/leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Nareshk7800/leetcode/tree/master/0283-move-zeroes) |
 ## String Matching
 |  |
 | ------- |
