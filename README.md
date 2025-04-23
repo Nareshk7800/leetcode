@@ -12,6 +12,7 @@ Day to Day solving of problems in the leetcode
 | [0035-search-insert-position](https://github.com/Nareshk7800/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Nareshk7800/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Nareshk7800/leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Nareshk7800/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Nareshk7800/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Nareshk7800/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Nareshk7800/leetcode/tree/master/0217-contains-duplicate) |
@@ -109,4 +110,8 @@ Day to Day solving of problems in the leetcode
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Nareshk7800/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Nareshk7800/leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
