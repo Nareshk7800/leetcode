@@ -95,6 +95,7 @@ Day to Day solving of problems in the leetcode
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Nareshk7800/leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Nareshk7800/leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Nareshk7800/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -105,6 +106,7 @@ Day to Day solving of problems in the leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nareshk7800/leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Nareshk7800/leetcode/tree/master/0190-reverse-bits) |
 ## Counting
 |  |
 | ------- |
