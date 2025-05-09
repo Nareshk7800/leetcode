@@ -41,6 +41,7 @@ Day to Day solving of problems in the leetcode
 | [0066-plus-one](https://github.com/Nareshk7800/leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Nareshk7800/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Nareshk7800/leetcode/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/Nareshk7800/leetcode/tree/master/0507-perfect-number) |
 ## String
 |  |
 | ------- |
