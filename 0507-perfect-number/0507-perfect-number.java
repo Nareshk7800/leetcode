@@ -5,9 +5,9 @@ class Solution {
             if(num%i==0)
             sum = sum+i; 
         }
-        if(sum==num){
+        if(sum==num)
             return true;
-        }
+        
         return false;
     }
 }
