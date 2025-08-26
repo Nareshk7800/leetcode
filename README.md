@@ -20,6 +20,7 @@ Day to Day solving of problems in the leetcode
 | [0268-missing-number](https://github.com/Nareshk7800/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nareshk7800/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Nareshk7800/leetcode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nareshk7800/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ Day to Day solving of problems in the leetcode
 | [0217-contains-duplicate](https://github.com/Nareshk7800/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Nareshk7800/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Nareshk7800/leetcode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nareshk7800/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
 | ------- |
