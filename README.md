@@ -50,6 +50,7 @@ Day to Day solving of problems in the leetcode
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nareshk7800/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Nareshk7800/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Nareshk7800/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Nareshk7800/leetcode/tree/master/0014-longest-common-prefix) |
@@ -80,6 +81,7 @@ Day to Day solving of problems in the leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nareshk7800/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nareshk7800/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nareshk7800/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nareshk7800/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -127,5 +129,6 @@ Day to Day solving of problems in the leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nareshk7800/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Nareshk7800/leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
