@@ -3,17 +3,17 @@ class Solution {
         if(s==null || s.length()==0){
             return 0;
         }
-        HashSet<Character>hash = new HashSet<>();
-        int right=0;
+        HashSet<Character>val = new HashSet<>();
+        int left=0;
         int max=0;
-        for(int left=0;left<s.length();left++){
-            char val = s.charAt(left);
-            while(hash.contains(val)){
-                hash.remove(s.charAt(right));
-                right++;
+        for(int right=0;right<s.length();right++){
+            char sum = s.charAt(right);
+            while(val.contains(sum)){
+                val.remove(s.charAt(left));
+                left++;
             }
-            hash.add(val);
-            max=Math.max(max,left-right+1);
+            val.add(sum);
+            max=Math.max(max,right-left+1);
         }
         return max;
     }
