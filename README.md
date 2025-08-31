@@ -134,4 +134,8 @@ Day to Day solving of problems in the leetcode
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nareshk7800/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Nareshk7800/leetcode/tree/master/0118-pascals-triangle) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Nareshk7800/leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
