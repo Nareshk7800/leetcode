@@ -65,6 +65,7 @@ Day to Day solving of problems in the leetcode
 | [0125-valid-palindrome](https://github.com/Nareshk7800/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Nareshk7800/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nareshk7800/leetcode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Nareshk7800/leetcode/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Day to Day solving of problems in the leetcode
 | [0125-valid-palindrome](https://github.com/Nareshk7800/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Nareshk7800/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Nareshk7800/leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Nareshk7800/leetcode/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -141,6 +143,7 @@ Day to Day solving of problems in the leetcode
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nareshk7800/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Nareshk7800/leetcode/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/Nareshk7800/leetcode/tree/master/0392-is-subsequence) |
 ## Database
 |  |
 | ------- |
