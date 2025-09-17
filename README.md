@@ -66,6 +66,7 @@ Day to Day solving of problems in the leetcode
 | [0205-isomorphic-strings](https://github.com/Nareshk7800/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nareshk7800/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Nareshk7800/leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Nareshk7800/leetcode/tree/master/0394-decode-string) |
 ## Trie
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Day to Day solving of problems in the leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nareshk7800/leetcode/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/Nareshk7800/leetcode/tree/master/0394-decode-string) |
 ## Linked List
 |  |
 | ------- |
@@ -85,6 +87,7 @@ Day to Day solving of problems in the leetcode
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nareshk7800/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Nareshk7800/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0394-decode-string](https://github.com/Nareshk7800/leetcode/tree/master/0394-decode-string) |
 ## Two Pointers
 |  |
 | ------- |
