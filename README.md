@@ -25,6 +25,7 @@ Day to Day solving of problems in the leetcode
 | [0414-third-maximum-number](https://github.com/Nareshk7800/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nareshk7800/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0792-binary-search](https://github.com/Nareshk7800/leetcode/tree/master/0792-binary-search) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Nareshk7800/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Day to Day solving of problems in the leetcode
 | [0242-valid-anagram](https://github.com/Nareshk7800/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nareshk7800/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nareshk7800/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Nareshk7800/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 ## Math
 |  |
 | ------- |
@@ -140,6 +142,7 @@ Day to Day solving of problems in the leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nareshk7800/leetcode/tree/master/0169-majority-element) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Nareshk7800/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -147,6 +150,7 @@ Day to Day solving of problems in the leetcode
 | [0076-minimum-window-substring](https://github.com/Nareshk7800/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nareshk7800/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Nareshk7800/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Nareshk7800/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
