@@ -14,6 +14,7 @@ Day to Day solving of problems in the leetcode
 | [0066-plus-one](https://github.com/Nareshk7800/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Nareshk7800/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Nareshk7800/leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nareshk7800/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Nareshk7800/leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Nareshk7800/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Nareshk7800/leetcode/tree/master/0169-majority-element) |
@@ -156,6 +157,7 @@ Day to Day solving of problems in the leetcode
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nareshk7800/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Nareshk7800/leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nareshk7800/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Nareshk7800/leetcode/tree/master/0392-is-subsequence) |
 ## Database
 |  |
