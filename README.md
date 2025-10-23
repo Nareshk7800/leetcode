@@ -45,6 +45,7 @@ Day to Day solving of problems in the leetcode
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nareshk7800/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nareshk7800/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Nareshk7800/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1873-longest-nice-substring](https://github.com/Nareshk7800/leetcode/tree/master/1873-longest-nice-substring) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Day to Day solving of problems in the leetcode
 | [0392-is-subsequence](https://github.com/Nareshk7800/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Nareshk7800/leetcode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nareshk7800/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1873-longest-nice-substring](https://github.com/Nareshk7800/leetcode/tree/master/1873-longest-nice-substring) |
 ## Trie
 |  |
 | ------- |
@@ -129,6 +131,7 @@ Day to Day solving of problems in the leetcode
 | [0136-single-number](https://github.com/Nareshk7800/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Nareshk7800/leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Nareshk7800/leetcode/tree/master/0268-missing-number) |
+| [1873-longest-nice-substring](https://github.com/Nareshk7800/leetcode/tree/master/1873-longest-nice-substring) |
 ## Binary Search
 |  |
 | ------- |
@@ -141,6 +144,7 @@ Day to Day solving of problems in the leetcode
 | ------- |
 | [0169-majority-element](https://github.com/Nareshk7800/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Nareshk7800/leetcode/tree/master/0190-reverse-bits) |
+| [1873-longest-nice-substring](https://github.com/Nareshk7800/leetcode/tree/master/1873-longest-nice-substring) |
 ## Counting
 |  |
 | ------- |
@@ -155,6 +159,7 @@ Day to Day solving of problems in the leetcode
 | [0219-contains-duplicate-ii](https://github.com/Nareshk7800/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nareshk7800/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Nareshk7800/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1873-longest-nice-substring](https://github.com/Nareshk7800/leetcode/tree/master/1873-longest-nice-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
