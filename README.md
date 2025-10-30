@@ -27,6 +27,7 @@ Day to Day solving of problems in the leetcode
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nareshk7800/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0792-binary-search](https://github.com/Nareshk7800/leetcode/tree/master/0792-binary-search) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Nareshk7800/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nareshk7800/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +163,7 @@ Day to Day solving of problems in the leetcode
 | [0219-contains-duplicate-ii](https://github.com/Nareshk7800/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nareshk7800/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Nareshk7800/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nareshk7800/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1873-longest-nice-substring](https://github.com/Nareshk7800/leetcode/tree/master/1873-longest-nice-substring) |
 ## Dynamic Programming
 |  |
@@ -170,6 +172,7 @@ Day to Day solving of problems in the leetcode
 | [0118-pascals-triangle](https://github.com/Nareshk7800/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nareshk7800/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Nareshk7800/leetcode/tree/master/0392-is-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nareshk7800/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Database
 |  |
 | ------- |
