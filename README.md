@@ -26,6 +26,7 @@ Day to Day solving of problems in the leetcode
 | [0414-third-maximum-number](https://github.com/Nareshk7800/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nareshk7800/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0792-binary-search](https://github.com/Nareshk7800/leetcode/tree/master/0792-binary-search) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nareshk7800/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Nareshk7800/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nareshk7800/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nareshk7800/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -143,6 +144,7 @@ Day to Day solving of problems in the leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/Nareshk7800/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Nareshk7800/leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Nareshk7800/leetcode/tree/master/0792-binary-search) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nareshk7800/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -163,6 +165,7 @@ Day to Day solving of problems in the leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/Nareshk7800/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Nareshk7800/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nareshk7800/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nareshk7800/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Nareshk7800/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nareshk7800/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nareshk7800/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -190,5 +193,18 @@ Day to Day solving of problems in the leetcode
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nareshk7800/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nareshk7800/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nareshk7800/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nareshk7800/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nareshk7800/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nareshk7800/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
