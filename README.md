@@ -117,6 +117,7 @@ Day to Day solving of problems in the leetcode
 | [0125-valid-palindrome](https://github.com/Nareshk7800/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Nareshk7800/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Nareshk7800/leetcode/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/Nareshk7800/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Nareshk7800/leetcode/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
@@ -132,6 +133,7 @@ Day to Day solving of problems in the leetcode
 | [0217-contains-duplicate](https://github.com/Nareshk7800/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nareshk7800/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nareshk7800/leetcode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/Nareshk7800/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0414-third-maximum-number](https://github.com/Nareshk7800/leetcode/tree/master/0414-third-maximum-number) |
 ## Bit Manipulation
 |  |
@@ -205,9 +207,18 @@ Day to Day solving of problems in the leetcode
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Nareshk7800/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nareshk7800/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nareshk7800/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Nareshk7800/leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Nareshk7800/leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
