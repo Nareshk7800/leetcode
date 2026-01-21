@@ -28,6 +28,7 @@ Day to Day solving of problems in the leetcode
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nareshk7800/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/Nareshk7800/leetcode/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/Nareshk7800/leetcode/tree/master/0792-binary-search) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Nareshk7800/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nareshk7800/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Nareshk7800/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nareshk7800/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -64,6 +65,7 @@ Day to Day solving of problems in the leetcode
 | [0202-happy-number](https://github.com/Nareshk7800/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Nareshk7800/leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Nareshk7800/leetcode/tree/master/0507-perfect-number) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Nareshk7800/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 ## String
 |  |
 | ------- |
@@ -229,4 +231,12 @@ Day to Day solving of problems in the leetcode
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Nareshk7800/leetcode/tree/master/0561-array-partition) |
+## Geometry
+|  |
+| ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/Nareshk7800/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+## Matrix
+|  |
+| ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/Nareshk7800/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
